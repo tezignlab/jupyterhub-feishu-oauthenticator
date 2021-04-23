@@ -26,12 +26,12 @@ pip3 install -e .
 
 **1、Create FeiShu App**
 
-Please see the FeiShu doc [Create a custom app](https://open.feishu.cn/document/uQjL04CN/ukzM04SOzQjL5MDN)
+see feishu doc [Create a custom app](https://open.feishu.cn/document/uQjL04CN/ukzM04SOzQjL5MDN)
 
 
 **2、Config Your FeiShu App**
 
-Go to FeiShu Developer Console --> "Security Settings" --> "Redirect URL", add `http://[your-host]/hub/oauth_callback`
+"Security Settings" --> "Redirect URL" --> Add `http://[your-host]/hub/oauth_callback`
 
 ![](https://user-images.githubusercontent.com/595772/114486465-f675f200-9bdb-11eb-87cf-49eb1a13e60f.png)
 
