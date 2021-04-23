@@ -3,7 +3,7 @@ from jupyterhub.auth import LocalAuthenticator
 from tornado.httpclient import AsyncHTTPClient, HTTPRequest
 from traitlets import Bool, List, Unicode, default
 
-from .oauth2 import OAuthenticator
+from oauthenticator import OAuthenticator
 import json
 
 
