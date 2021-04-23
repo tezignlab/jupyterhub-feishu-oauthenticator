@@ -11,6 +11,8 @@ setup(
     name="jupyterhub-feishu-oauthenticator",
     version="0.0.1",
     description="FeiShu OAuthenticator for Jupyterhub",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
     author="Tezign",
     author_email="support@tezign.com",
     url="https://github.com/tezignlab/jupyterhub_feishu_authenticator",
