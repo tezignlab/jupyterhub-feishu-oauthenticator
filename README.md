@@ -56,7 +56,7 @@ c.FeiShuOAuthenticator.client_secret = app_secret
 
 ## Team
 
-- [Harry Wang](http://harrywang.me/)
 - [Anoyi](https://anoyi.com)
-- Qiang Ju, Tezign.com
+- [Qiang Ju](https://github.com/F1And)
+- [Harry Wang](http://harrywang.me/)
 
