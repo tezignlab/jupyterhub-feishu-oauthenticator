@@ -1,7 +1,7 @@
 # JupyterHub FeiShu OAuthenticator
 JupyterHub FeiShu Authenticator is a FeiShu OAuth authenticator built on top of [OAuthenticator](https://github.com/jupyterhub/oauthenticator).
 
-![](https://img.shields.io/badge/python-3.6%2B-blue.svg) ![](https://img.shields.io/badge/PYPI-0.0.1-orange.svg)
+![](https://img.shields.io/badge/python-3.6%2B-blue.svg) ![](https://img.shields.io/badge/PYPI-0.1.0-orange.svg)
 
 ## Installing
 
