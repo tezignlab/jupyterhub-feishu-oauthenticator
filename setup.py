@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="jupyterhub-feishu-oauthenticator",
-    version="0.1.0",
+    version="0.1.1",
     description="FeiShu OAuthenticator for Jupyterhub",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
