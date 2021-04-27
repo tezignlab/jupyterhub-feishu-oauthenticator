@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Tezign",
     author_email="dev@tezign.com",
-    url="https://github.com/tezignlab/jupyterhub_feishu_authenticator",
+    url="https://github.com/tezignlab/jupyterhub-feishu-oauthenticator.git",
     install_requires=['oauthenticator>=14.0.0'],
     packages=find_packages(),
 )
